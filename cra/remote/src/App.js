@@ -1,10 +1,7 @@
-import LocalButton from './Button';
-
+import RemoteLandingPage from "./RemoteLandingPage";
 const App = () => (
   <div>
-    <h1>Basic Host-Remote</h1>
-    <h2>Remote</h2>
-    <LocalButton />
+    <RemoteLandingPage> </RemoteLandingPage>
   </div>
 );
 
